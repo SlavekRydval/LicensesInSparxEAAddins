@@ -1,6 +1,6 @@
 # Licenses in Sparx EA Addins
 
-Visual Studio .NET Solution that support showing error with licenses
+Visual Studio .NET Solution that supports showing error with licenses
 
 1) Run Visual Studion (2017) as Administrator.
 2) Build solution
